@@ -1,2 +1,2 @@
 # Huge-Integer-Data-Structure
-Huge Integer Class
+This program replicates the Big Integer data structure in C++
